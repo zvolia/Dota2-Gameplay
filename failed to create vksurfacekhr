@@ -1,0 +1,2 @@
+Good evening. I want to open the developer panel in the main menu of dota 2, but I get the error bool CSwapChainVulkan::CreateSwapChain(VkDevice, VkPhysicalDevice)():
+Failed to create VkSurfaceKHR. And crashes. Please tell me what the problem is and how to solve it?
